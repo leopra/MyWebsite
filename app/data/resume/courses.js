@@ -2,53 +2,83 @@
 const courses = [
    {
     title: 'Machine Learning',
-    number: 'CS 229',
-    link: 'http://cs229.Padua.edu/',
+    number: 'INF/01',
+    link: 'https://en.didattica.unipd.it/off/2020/LM/SC/SC1176/000ZZ/SC01122905/N0',
     univerity: 'Padua',
   }, {
-    title: 'Convolutional Neural Networks for Visual Recognition',
-    number: 'CS 231n',
-    link: 'http://cs231n.Padua.edu/',
+    title: 'Computer Vision',
+    number: 'ING-INF/05',
+    link: 'https://en.didattica.unipd.it/off/2020/LM/IN/IN2547/001PD/INP9087774/N0',
     univerity: 'Padua',
   }, {
-    title: 'Numerical Linear Algebra',
-    number: 'CME 302',
-    link: 'http://scpd.Padua.edu/search/publicCourseSearchDetails.do;jsessionid=561188A06434D7D97953C4706DE12831?method=load&courseId=11685',
+    title: 'Linear Algebra',
+    number: 'MAT/02-03',
+    link : 'https://en.didattica.unipd.it/off/2020/LT/IN/IN0508/000ZZ/IN06100061/N6CN1',
     univerity: 'Padua',
   }, {
-    title: 'Discrete Mathematics and Algorithms',
-    number: 'CME 305',
-    link: 'http://Padua.edu/~rezab/discrete/',
-    univerity: 'Padua',
-  }, {
-    title: 'Design Theory and Methodology',
-    number: 'MAE 397',
-    link: 'https://web.Padua.edu/group/designx_lab/cgi-bin/mainwiki/index.php/ME397_Design_Theory_%26_Methodology_Seminar',
-    univerity: 'Padua',
-  }, {
-    title: 'Software Engineering Concepts',
-    number: 'CSE 442',
-    link: '',
-    univerity: 'Padua',
-  }, {
-    title: 'Data Structures',
-    number: 'CS 250',
-    link: 'http://www.cse.Padua.edu/~hungngo/classes/2013/Fall/250/',
-    univerity: 'Padua',
-  }, {
-    title: 'Computer Vision and Image Processing',
-    number: 'CSE 573',
-    link: 'http://cubs.Padua.edu/~inwogu/teaching/Coursepage573_fa14/',
-    univerity: 'Padua',
-  }, {
-    title: 'Realtime Embedded Systems',
-    number: 'CSE 321',
-    link: '',
+    title: 'Discrete Mathematics and Probability',
+    number: 'MAT/06',
+    link: 'https://en.didattica.unipd.it/off/2018/LT/IN/IN0508/000ZZ/INP8084338/N0',
     univerity: 'Padua',
   }, {
     title: 'Deep Learning',
-    number: 'CS 224d',
-    link: 'http://cs224d.Padua.edu/',
+    number: 'INF/01',
+    link: 'https://en.didattica.unipd.it/off/2020/LM/SC/SC1176/000ZZ/SCP9087561/N0',
+    univerity: 'Padua',
+  }, {
+    title: 'Software Engineering Concepts',
+    number: 'ING-INF/05',
+    link: 'https://en.didattica.unipd.it/off/2018/LT/IN/IN0508/000ZZ/INP8084339/N0',
+    univerity: 'Padua',
+  }, {
+    title: 'Data Structures and Algorithms',
+    number: 'ING-INF/05',
+    link: 'https://en.didattica.unipd.it/off/2018/LT/IN/IN0508/000ZZ/IN04111234/N0',
+    univerity: 'Padua',
+  }, {
+    title: 'Web Applications',
+    number: 'ING-INF/05',
+    link: 'https://en.didattica.unipd.it/off/2020/LM/IN/IN2547/002PD/INP9087843/N0',
+    univerity: 'Padua',
+  }, {
+    title: 'Embedded Systems Programmming',
+    number: 'ING-INF/05',
+    link: 'https://en.didattica.unipd.it/off/2018/LT/IN/IN0508/001PD/IN01122661/N0',
+    univerity: 'Padua',
+  }, {
+    title: 'Operative Systems',
+    number: 'ING-INF/05',
+    link: 'https://en.didattica.unipd.it/off/2019/LT/IN/IN0508/000ZZ/IN06107631/N0',
+    univerity: 'Padua',
+  }, {
+    title: 'Databases',
+    number: 'ING-INF/05',
+    link: 'https://en.didattica.unipd.it/off/2018/LT/IN/IN0508/000ZZ/INP8084329/N0',
+    univerity: 'Padua',
+  },{
+    title: 'Elements of Artificial Intelligence',
+    number: 'ING-INF/05',
+    link: 'https://en.didattica.unipd.it/off/2018/LT/IN/IN0508/000ZZ/INP8084334/N0',
+    univerity: 'Padua',
+  }, {
+    title: 'Advanced Algorithms',
+    number: 'INF/01',
+    link: 'https://en.didattica.unipd.it/off/2020/LM/SC/SC1176/000ZZ/SCP8084820/N0',
+    univerity: 'Padua',
+  },{
+    title: 'Computer Networks',
+    number: 'ING-INF/05',
+    link: 'https://en.didattica.unipd.it/off/2018/LT/IN/IN0508/000ZZ/INP8084335/N0',
+    univerity: 'Padua',
+  }, {
+    title: 'Big Data Computing',
+    number: 'ING-INF/05',
+    link: 'https://en.didattica.unipd.it/off/2020/LM/SC/SC1176/000ZZ/SCP7079297/N0',
+    univerity: 'Padua',
+  }, {
+    title: 'Data Mining',
+    number: 'SECS-S/01',
+    link: 'https://en.didattica.unipd.it/off/2020/LM/SC/SC1176/000ZZ/SC01111799/N0',
     univerity: 'Padua',
   },
 ];
