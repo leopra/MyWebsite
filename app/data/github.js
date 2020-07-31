@@ -18,7 +18,7 @@ const data = [
     label: 'Last updated at',
     key: 'pushed_at',
     value: dayjs().format('MMMM D, YYYY'),
-    link: 'https://github.com/mldangelo/personal-site/commits',
+    link: 'https://leopra.github.io/MyWebsite/',
   },
 ];
 

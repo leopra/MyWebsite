@@ -15,6 +15,7 @@ const validateText = (text) => {
   return re.test(text) || text.length === 0;
 };
 
+//TODO remove funny words code
 const messages = [
   'hi',
   'hello',
@@ -88,18 +89,10 @@ const Contact = () => {
         </header>
         <div className="email-at">
           <p>Feel free to get in touch. You can email me at: </p>
-          <div
-            className="inline-container"
-            style={validateText(message) ? {} : { color: 'red' }}
-            onMouseEnter={() => setIsActive(false)}
-            onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
-          >
-            <a href={validateText(message) ? `mailto:${message}@mldangelo.com` : ''}>
-              <span>{message}</span>
-              <span>@mldangelo.com</span>
+            <a href={`mailto:pratesileonardo@hotmail.it.`}>
+              <span>pratesileonardo@hotmail.it</span>
             </a>
           </div>
-        </div>
         <ul className="icons">
           {data.map((s) => (
             <li key={s.label}>
