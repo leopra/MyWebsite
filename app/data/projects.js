@@ -1,6 +1,22 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Weakly-supervised Text Classification based on Contextualized Word Embeddings',
+    subtitle: 'NLP Master Thesis Research focused on improving Transformers models with unsupervised data sources',
+    link: '/home/leopra/Documents/mywebsite/MyWebsite/app/data/pdfs/Tesi_Magistrale_Leonardo.pdf',
+    image: '/images/lotclass.jpg',
+    date: '2021-08-20',
+    desc: 'In this work I propose a new joint classification approach to ',
+  },
+  {
+    title: 'Satellite Images ',
+    subtitle: 'Machine Learning project in collaboration with FAO to detect deforestation in third world countries using Google Earth Engine Platform',
+    link: 'app/data/pdfs/Landuse_Final_report.pdf',
+    image: '/images/landuse.jpg',
+    date: '2021-04-20',
+    desc: 'Made a pipeline to correctly identify license plates and characters from a dataset of images',
+  },
+  {
     title: 'License Plate Recognizer',
     subtitle: 'Computer Vision Project',
     link: 'https://github.com/leopra/LicensePlateRecognition',
