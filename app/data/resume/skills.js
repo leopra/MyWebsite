@@ -63,7 +63,7 @@ const skills = [{
 },
 {
   title: 'Python',
-  competency: 4,
+  competency: 5,
   category: ['Languages', 'Python'],
 },
 {
@@ -82,6 +82,11 @@ const skills = [{
   category: ['Data Engineering', 'Data Science', 'Python'],
 },
 {
+  title: 'Huggingface',
+  competency: 3,
+  category: ['Data Engineering', 'Data Science'],
+},
+{
   title: 'Scikit-Learn',
   competency: 3,
   category: ['Data Engineering', 'Data Science', 'Python'],
@@ -93,7 +98,7 @@ const skills = [{
 },
 {
   title: 'Spark',
-  competency: 4,
+  competency: 3,
   category: ['Data Engineering', 'Data Science'],
 },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
