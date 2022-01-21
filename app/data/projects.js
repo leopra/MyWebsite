@@ -3,7 +3,7 @@ const data = [
   {
     title: 'Weakly-supervised Text Classification based on Contextualized Word Embeddings',
     subtitle: 'NLP Master Thesis Research focused on improving Transformers models with unsupervised data sources',
-    link: '/pdfs/Tesi_Magistrale_Leonardo.pdf',
+    link: 'https://drive.google.com/file/d/19rcnGJcAWTSpoobC7_w0M2eqy8QO5vKO/view?usp=sharing',
     image: '/images/lotclass.png',
     date: '2021-08-20',
     desc: 'This thesis proposes an analysis of two Weakly supervised state-of-the-art models that use BERT contextualized embeddings to solve the word disambiguation problem in different ways. The operational analysis is applied on a classification task consisting in assigning a correct economic sector to a database of companies by analyzing their business description. In this regard, pros and cons of each model are taken into consideration. Finally, a new insightful model is introduced: it combines multiple sources of weak information into solving a joint task that solve some limitations of the models previously investigated when handling complex data categories.',
@@ -19,7 +19,7 @@ const data = [
   {
     title: 'Deforestation Detection with Time-Series on Satellite Images',
     subtitle: 'Machine Learning project in collaboration with FAO to detect deforestation in third world countries using Google Earth Engine Platform',
-    link: '/pdfs/Landuse_Final_report.pdf',
+    link: 'https://drive.google.com/file/d/1ks4oTd9NMvb91LSM_7tj_j6hTMAne3ZK/view?usp=sharing',
     image: '/images/forest.jpeg',
     date: '2021-04-20',
     desc: 'Made a pipeline to correctly identify license plates and characters from a dataset of images',
@@ -28,7 +28,7 @@ const data = [
     title: 'License Plate Recognizer',
     subtitle: 'Computer Vision Project',
     link: 'https://github.com/leopra/LicensePlateRecognition',
-    image: '/images/licenseplate.jpg',
+    image: './images/licenseplate.jpg',
     date: '2019-06-20',
     desc: 'Made a pipeline to correctly identify license plates and characters from a dataset of images',
   }, {
