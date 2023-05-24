@@ -13,13 +13,33 @@ const skills = [{
 },
 {
   title: 'React',
-  competency: 1,
+  competency: 4,
   category: ['Web Development', 'Javascript'],
 },
 {
-  title: 'Java',
+  title: 'Pytorch',
   competency: 3,
-  category: ['Tools', 'Languages'],
+  category: ['Data Science'],
+},
+{
+  title: 'MongoDB',
+  competency: 5,
+  category: ['Databases'],
+},
+{
+  title: 'Kubernetes',
+  competency: 3,
+  category: ['Tools'],
+},
+{
+  title: 'Kubeflow',
+  competency: 4,
+  category: ['Data Science'],
+},
+{
+  title: 'MLflow',
+  competency: 4,
+  category: ['Data Science'],
 },
 {
   title: 'MongoDB',
@@ -37,7 +57,7 @@ const skills = [{
   category: ['Data Science'],
 },
 {
-  title: 'Git/Mercurial',
+  title: 'Git',
   competency: 4,
   category: ['Tools'],
 },

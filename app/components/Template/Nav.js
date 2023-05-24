@@ -10,18 +10,17 @@ const Nav = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${BASE_PATH}/images/me.jpg`} alt="" />
+        <img src={`${BASE_PATH}/images/me.jpeg`} alt="" />
       </Link>
       <header>
         <h2>Leonardo Pratesi</h2>
-        <p><a href="mailto:pratesileonardo@hotmail.it">pratesileonardo@hotmail.it</a></p>
+        <p><a href="mailto:leonardopratesi01@gmail.com">leonardopratesi01@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Leonardo. I am a Computer Scientist/Engineer.
-        I am a master student at the <a href="https://www.unipd.it/">University of Padua</a>
+      <p>Hi, I&apos;m Leonardo. I am a Machine Learning / MLops Engineer.
       </p>
       <ul className="actions">
         <li>

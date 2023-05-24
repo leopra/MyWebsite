@@ -1,6 +1,6 @@
 // TODO add all courses
 const courses = [
-   {
+  {
     title: 'Machine Learning',
     number: 'INF/01',
     link: 'https://en.didattica.unipd.it/off/2020/LM/SC/SC1176/000ZZ/SC01122905/N0',
@@ -13,7 +13,7 @@ const courses = [
   }, {
     title: 'Linear Algebra',
     number: 'MAT/02-03',
-    link : 'https://en.didattica.unipd.it/off/2020/LT/IN/IN0508/000ZZ/IN06100061/N6CN1',
+    link: 'https://en.didattica.unipd.it/off/2020/LT/IN/IN0508/000ZZ/IN06100061/N6CN1',
     univerity: 'Padua',
   }, {
     title: 'Discrete Mathematics and Probability',
@@ -55,7 +55,7 @@ const courses = [
     number: 'ING-INF/05',
     link: 'https://en.didattica.unipd.it/off/2018/LT/IN/IN0508/000ZZ/INP8084329/N0',
     univerity: 'Padua',
-  },{
+  }, {
     title: 'Elements of Artificial Intelligence',
     number: 'ING-INF/05',
     link: 'https://en.didattica.unipd.it/off/2018/LT/IN/IN0508/000ZZ/INP8084334/N0',
@@ -65,7 +65,7 @@ const courses = [
     number: 'INF/01',
     link: 'https://en.didattica.unipd.it/off/2020/LM/SC/SC1176/000ZZ/SCP8084820/N0',
     univerity: 'Padua',
-  },{
+  }, {
     title: 'Computer Networks',
     number: 'ING-INF/05',
     link: 'https://en.didattica.unipd.it/off/2018/LT/IN/IN0508/000ZZ/INP8084335/N0',

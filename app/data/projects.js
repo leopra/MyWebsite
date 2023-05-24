@@ -14,7 +14,7 @@ const data = [
     link: 'https://colab.research.google.com/drive/1kLEGMRUqenUrjPlMoXRE3ZuVoA4IF6Tc?usp=sharing',
     image: '/images/topic.png',
     date: '2021-06-21',
-    desc: 'At https://colab.research.google.com/drive/111ZBRdJVoWOU-aYg78V1alvS-HVXTd-j?usp=sharing you can check the LDA analysys of the same dataset'
+    desc: 'At https://colab.research.google.com/drive/111ZBRdJVoWOU-aYg78V1alvS-HVXTd-j?usp=sharing you can check the LDA analysys of the same dataset',
   },
   {
     title: 'Deforestation Detection with Time-Series on Satellite Images',

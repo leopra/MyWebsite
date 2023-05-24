@@ -89,8 +89,8 @@ const Contact = () => {
         </header>
         <div className="email-at">
           <p>Feel free to get in touch. You can email me at: </p>
-            <a href={`mailto:pratesileonardo@hotmail.it.`}>
-              <span>pratesileonardo@hotmail.it</span>
+            <a href={`mailto:leonardopratesi01@gmail.com.`}>
+              <span>leonardopratesi01@gmail.com</span>
             </a>
           </div>
         <ul className="icons">
