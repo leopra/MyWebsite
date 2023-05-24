@@ -5,7 +5,7 @@ const data = {
   },
   location: {
     label: 'Current city',
-    value: 'Padua, PD',
+    value: 'Lisbon, Portugal',
   },
 };
 
